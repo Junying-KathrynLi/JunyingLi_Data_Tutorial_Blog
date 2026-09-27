@@ -1,0 +1,16 @@
+---
+title: "Junying Li"
+image: profile.JPG
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/junyingli-la/
+    - icon: github
+      text: Github
+      href: https://github.com/JunyingLLL
+
+---
+
+Junying Li's Blog for PIC 16B

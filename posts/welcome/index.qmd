@@ -1,0 +1,11 @@
+---
+title: "Welcome To My Blog"
+author: "Junying Li"
+date: "2024-09-28"
+categories: []
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
